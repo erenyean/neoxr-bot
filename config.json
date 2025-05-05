@@ -12,7 +12,7 @@
    "permanent_threshold": 3,
    "notify_threshold": 4,
    "banned_threshold": 5,
-   "blocks": ["994", "91", "92"],
+   "blocks": ["994", "212", "234"],
    "evaluate_chars":  ["=>", "~>", "<", ">", "$"],
    "pairing": {
       "state": true,
